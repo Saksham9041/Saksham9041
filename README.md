@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Machine Learning & BI Enthusiast</h3>
 
 <p align="center">
-<a href="https://github.com/Saksham9041/Saksham9041/blob/main/Saksham_Resume_Final.pdf">📄 View My Resume</a> &nbsp;|&nbsp;
+<a href="https://raw.githubusercontent.com/Saksham9041/Saksham9041/main/Saksham_Resume_Final.pdf">📄 View My Resume</a> &nbsp;|&nbsp;
 <a href="https://www.linkedin.com/in/saksham-sharma-bb5923253">💼 LinkedIn</a> &nbsp;|&nbsp;
 <a href="mailto:sakshamsharma0905@gmail.com">📧 Email Me</a>
 </p>
