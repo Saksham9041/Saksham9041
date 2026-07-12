@@ -2,18 +2,28 @@
 <h3 align="center">Data Analyst | Machine Learning & BI Enthusiast</h3>
 
 <p align="center">
-📄 Resume: <a href="https://github.com/Saksham9041">View My Resume</a>
+<a href="https://github.com/Saksham9041/Saksham9041/blob/main/Saksham_Sharma_Resume.pdf">📄 View My Resume</a> &nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/saksham-sharma-bb5923253">💼 LinkedIn</a> &nbsp;|&nbsp;
+<a href="mailto:sakshamsharma0905@gmail.com">📧 Email Me</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Saksham9041&label=Profile%20Views&color=1F3864&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a Computer Science Engineering (Big Data Analytics) graduate passionate about turning messy, real-world data into clear business insights.
+🎓 Computer Science Engineering graduate (Big Data Analytics) who turns messy, real-world data into decisions that save money and reduce risk.
 
-I enjoy working at the intersection of Data Analytics, Machine Learning, and BI — and I've applied this through published research (IEEE Xplore, Scopus-indexed) and hands-on projects in fraud detection, legal-document AI, and supply chain optimization.
+📊 Uncovered **$2.71M in unsold inventory** and **~72% in potential cost savings** for a supply chain analytics project — the kind of insight that changes how a business buys and stocks.
 
-Currently sharpening my skills in advanced ML, dashboard design, and preparing for full-time data analytics roles.
+📝 Published **2 peer-reviewed research papers** — one on ML-driven fraud detection (IEEE Xplore) and one benchmarking a Graph-RAG pipeline against traditional retrieval on 510 legal contracts (Scopus-indexed), improving retrieval accuracy measurably.
+
+🧠 Comfortable across the full analytics lifecycle — data cleaning, EDA, predictive modeling, and dashboard design — using Python, SQL, and Power BI, with hands-on exposure to XGBoost, Random Forest, and explainable AI.
+
+🎯 Currently sharpening my edge in advanced ML and BI, and looking for a full-time Data Analyst role where I can turn data into decisions from day one.
 
 ---
 
@@ -73,6 +83,10 @@ Currently sharpening my skills in advanced ML, dashboard design, and preparing f
 End-to-end analytics solution evaluating vendor performance and inventory efficiency. Identified $2.71M in unsold inventory and ~72% in potential cost savings.
 `Python` `SQL` `Power BI`
 
+**[AI-Powered Predictive Analytics for Early Detection of Mental Health Risks](https://github.com/Saksham9041/AI-Powered-Predictive-Analytics-for-Early-Detection-of-Mental-Health-Risks)**
+Analyzes mental health data to uncover patterns and key factors affecting well-being, using data cleaning, analysis, and visualization techniques.
+`Python` `Jupyter Notebook`
+
 **[Superstore Sales Insights Dashboard](https://github.com/Saksham9041/Superstore-Sales-Analytics-Dashboard)**
 Interactive Power BI dashboard analyzing multi-year sales trends, seasonality, and profitability using SQL and Python.
 `SQL` `Python` `Power BI` `DAX`
@@ -93,15 +107,17 @@ Graph-RAG pipeline (Neo4j, FAISS, LangChain, Gemini LLM) benchmarked on the CUAD
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Saksham9041&show_icons=true&theme=default" alt="Saksham's GitHub Stats" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-sharma-bb5923253)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamsharma0905@gmail.com)
+
+---
+
+### 🎯 Currently Learning
+
+Advanced Machine Learning • Explainable AI (XAI) • Dashboard Design & Storytelling with Data
+
+---
+
+<p align="center"><i>Thanks for stopping by — always open to connecting on data, analytics, and AI. 🚀</i></p>
